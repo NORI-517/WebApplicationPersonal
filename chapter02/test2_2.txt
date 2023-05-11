@@ -1,0 +1,2 @@
+1: http://localhost:8080/hoge/foo.html
+2: http://localhost:8080/bar/foo.html
